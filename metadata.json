@@ -1,0 +1,6 @@
+{
+  "name": "Jeff Money",
+  "description": "Aplikasi pencatat keuangan harian interaktif dan ramah bertema Jeff the Land Shark dari Marvel Rivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
